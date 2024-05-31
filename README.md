@@ -1,0 +1,1 @@
+Screenshot of class execution via the console is located in  **src/main/java/resources/images** 
